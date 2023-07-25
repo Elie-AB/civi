@@ -1,0 +1,67 @@
+
+<head>
+    <title>my civi</title>
+    <link rel="stylesheet" href="styles.css"
+</head>
+<body>
+    <div class="myDiv">
+    <h2>Elie Abdo </h2>
+    <p><h2>Full stack developper</h2></p
+        introduction
+        <img class="pic" src="c:\Users\CompuTop\Downloads\WhatsApp Image 2023-07-24 at 11.31.03 AM.jpeg">
+        <nav class="navcolor">
+        <ul>
+            <li>elie.abdo.y7@gmail.com</li>
+            <li>79160380</li>
+            <li>Zahle bekaa Lebanon</li>
+            <li>GITLAB/ElieAbdo</li>
+            <li>LinkedIn/ElieAbdo</li>
+        </ul>
+    </nav>
+    </div>
+    <div class="maindiv">
+        <div class="d1">
+            <h2>Education</h2>
+            <ul><h3>1st year computer science</h3>
+            <li>Cnam liban 2022-2023</li>
+            <h3>Full stack web developpement bootcamp</h3>
+            <li>AUF 2022-2023</li>
+            </ul>
+            <h2>workExperience</h2>
+            <ul><li>no workExperience</li></ul>
+            <h2>honors and awards</h2>
+            nothing yet
+            </div>
+            <div class="d2">
+                <h2>skills</h2>
+                <table cellspacing="5">
+
+                </table>
+                <tr>
+                    <td class="button">html</td>
+                    <td class="button">css</td>
+                    <td class="button">javascript</td>
+                    <td class="button">java1</td>
+                    <td class="button">php</td>
+                </tr>
+                </table>
+                <h2>Projets</h2>
+                <ul>
+                    <li><h3>halaa lawen</h3></li>
+                    <p>a website tragetting lebanese and froeign people to learn about lebanon touristic sites an</p>
+                    <li><h3>al maarifa school website</h3></li>
+                    <p>a school website that allows parents to tarck their kids activities and grades</p>
+                </ul>
+                <h2>languages</h2>
+                <ul>
+                    <li>Arabic</li>
+                    <li>French</li>
+                    <li>englich</li>
+                </ul>
+            </div>
+
+
+        </div>
+    </div>
+</body>
+</html>
